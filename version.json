@@ -1,7 +1,4 @@
 {
   "version": "0.5",
-  "release_date": "2026-09-20",
-  "download_url": "https://github.com/QodisDev/Margo/releases/download/v0.5/app.zip",
-  "release_notes": "Исправлены баги с моделями. Добавлена возможность выбора голоса.",
-  "min_required_version": "0.4"
+  "release_notes": "Первая стабильная версия с БД (SQLite) и динамическими настройками",
 }
