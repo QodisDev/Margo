@@ -8,7 +8,6 @@
 
 [![Версия](https://img.shields.io/badge/версия-0.4.0-8b5cf6?style=for-the-badge)](https://github.com/QodisDev/Margo/releases/latest)
 [![Платформа](https://img.shields.io/badge/платформа-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/QodisDev/Margo/releases/latest)
-[![Лицензия](https://img.shields.io/badge/лицензия-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 [📖 Документация](https://margo-voice-assistant.gitbook.io/margo)
 
