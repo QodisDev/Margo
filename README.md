@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Марго" width="100%" />
+<img src="margo.png" alt="Марго" width="100%" />
 
 # Марго
 
