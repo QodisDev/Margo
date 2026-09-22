@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="margo.png" alt="Интерфейс Марго" width="90%" />
+<img src="main.png" alt="Интерфейс Марго" width="90%" />
 
 </div>
 
