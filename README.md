@@ -6,7 +6,7 @@
 
 **Локальный голосовой помощник для Windows**
 
-[![Версия](https://img.shields.io/badge/версия-0.4.0-8b5cf6?style=for-the-badge)](https://github.com/QodisDev/Margo/releases/latest)
+[![Версия](https://img.shields.io/badge/версия-0.0.1-8b5cf6?style=for-the-badge)](https://github.com/QodisDev/Margo/releases/latest)
 [![Платформа](https://img.shields.io/badge/платформа-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/QodisDev/Margo/releases/latest)
 
 [📖 Документация](https://margo-voice-assistant.gitbook.io/margo)
