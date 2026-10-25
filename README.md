@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Установка (СКОРО)
+## 🚀 Установка
 
 **КАК СКАЧАТЬ ?**
 1. [Перейти по ссылке в Google Disk](https://drive.google.com/file/d/1egusrGdxx1HmWsVqLv-tYFNwhH2pXWt9/view?usp=sharing)
